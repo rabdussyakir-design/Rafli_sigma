@@ -1,51 +1,35 @@
 # Rafli_sigma
 New repo
 <div align="center">
+  <img src="https://media.giphy.com/media/6yU5mYW7I37TG/giphy.gif" alt="Gojo Satoru" width="350" style="border-radius: 10px;"/>
+  <br/><br/>
   
-  <img src="https://media.giphy.com/media/6yU5mYW7I37TG/giphy.gif" alt="Gojo Satoru" width="400" style="border-radius: 10px;"/>
+  <p>A tech enthusiast who loves building cool things and solving problems.<br>
+  Based in Indonesia 🇮🇩</p>
 
-  # 🚀 [Nama Project Lo]
-  
-  **"Sebuah mahakarya yang dibuat dengan kekuatan Infinity 🤞"**
-  
-  [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-  [![Status: Active](https://img.shields.io/badge/Status-Active-success.svg)]()
-  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)]()
-
-  [Deskripsi singkat project lo di sini. Contoh: Aplikasi ini dibuat untuk mempermudah hidup banyak orang. Dibangun dengan fokus pada performa, keamanan, dan UI/UX yang memanjakan mata.]
-
+  <p>
+    <a href="[LINK_LINKEDIN]"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="[LINK_PORTFOLIO]"><img src="https://img.shields.io/badge/PORTFOLIO-2A2A2A?style=for-the-badge" alt="Portfolio"></a>
+    <a href="mailto:[EMAIL_LO]"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  </p>
 </div>
 
----
+<br/>
 
-## ✨ Fitur Andalan
+## 👨‍💻 About Me
 
-*   🔥 **Cepat & Ringan:** Dibuat dengan optimasi tingkat tinggi, secepat Hollow Purple.
-*   🔒 **Aman:** Keamanan data pengguna adalah prioritas utama (Domain Expansion: Infinite Security).
-*   🎨 **Desain Elegan:** Tampilan antarmuka yang bersih, responsif, dan memanjakan mata.
-*   🛠️ **Mudah Dikustomisasi:** Kode yang rapi sehingga gampang dikembangkan lebih lanjut.
+*   🔭 Currently working on **Exciting new projects**
+*   🌱 Currently learning **Advanced Web Development & System Design**
+*   👯 Looking to collaborate on **Open Source Projects**
+*   💡 I love exploring new technologies and building efficient architectures.
+*   ⚡ Fun fact: **I can debug code better after a cup of coffee ☕**
 
----
+<br/>
 
-## 💻 Teknologi yang Digunakan
+## 🛠️ Tech Stack & Tools
 
-*   **[Bahasa/Framework]** - *Misal: React.js, Next.js, atau Python*
-*   **[Styling/UI]** - *Misal: TailwindCSS, Bootstrap*
-*   **[Database]** - *Misal: MongoDB, PostgreSQL, atau MySQL*
-
----
-
-## ⚙️ Cara Menjalankan Project (Getting Started)
-
-Biar bisa jalan di komputer lo, ikutin ritual di bawah ini:
-
-### 1️⃣ Prasyarat
-Pastikan lo udah install:
-*   [Node.js](https://nodejs.org/) / [Python](https://www.python.org/) *(Sesuaikan sama project lo)*
-*   Git
-
-### 2️⃣ Instalasi
-
-1. Clone repository ini ke lokal mesin lo:
-   ```bash
-   git clone [https://github.com/](https://github.com/)[username-github-lo]/[nama-repo-lo].git
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,go,react,next,nodejs,tailwind" alt="Tech Stack Row 1" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,git,postgres,mongodb,mysql" alt="Tech Stack Row 2" />
+</p>
